@@ -16,7 +16,7 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=adityasrivast.visitor-badge)](https://github.com/adityasrivast) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/adityasrivast)
 
-- :raised_hand_with_fingers_splayed: I am a CSE Undergrad student, who loves develpoment and contributing to Open Source :heart:
+- :raised_hand_with_fingers_splayed: I am a CSE Undergrad student, who loves development and contributing to Open Source :heart:
 
 - 🌱 My hobbies include playing Chess, Cricket, Basketball, Football and Badminton.
 
