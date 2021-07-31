@@ -3,8 +3,8 @@
 ⚡ Aditya here, Nice to meet you :smiley:
 
 <div>
-  <a href="https://stackoverflow.com/users/10005848/adityasrivast">
-    <img src="https://img.shields.io/badge/-adityasrivast-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10005848/adityasrivast">
+  <a href="https://stackoverflow.com/users/10005848/adityasrivast?tab=profile">
+    <img src="https://img.shields.io/badge/-adityasrivast-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10005848/adityasrivast?tab=profile">
    </a>
   <a href="https://medium.com/@adityasrivast">
     <img src="https://img.shields.io/badge/-adityasrivast-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@adityasrivast">
