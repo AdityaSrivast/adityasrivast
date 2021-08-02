@@ -16,11 +16,17 @@
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=adityasrivast.visitor-badge)](https://github.com/adityasrivast) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/adityasrivast)
 
+<hr/>
+
 - :raised_hand_with_fingers_splayed: I am a CSE Undergrad student, who loves development and contributing to Open Source :heart:
 
 - 🌱 My hobbies include playing Chess, Cricket, Basketball, Football and Badminton.
 
 - 📫 You can reach me out at [adityasrivast.dev@gmail.com](mailto:adityasrivast.dev@gmail.com)
+
+<hr/>
+
+[![Aditya's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=adityasrivast&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/adityasrivast)
 
 Say Hi to me on Twitter ([@AdityaSrivast_](https://twitter.com/adityasrivast_)) :heart: 💬
 
