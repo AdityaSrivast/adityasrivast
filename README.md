@@ -9,12 +9,12 @@
   <a href="https://medium.com/@adityasrivast">
     <img src="https://img.shields.io/badge/-adityasrivast-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@adityasrivast">
   </a>
-  <a href="https://www.linkedin.com/in/adityasrivast/">
+<!--   <a href="https://www.linkedin.com/in/adityasrivast/">
     <img src="https://img.shields.io/badge/-adityasrivast-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityasrivast/">
-  </a>
+  </a> -->
 </div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=adityasrivast.visitor-badge)](https://github.com/adityasrivast) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/adityasrivast)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adityasrivast.adityasrivast)](https://github.com/adityasrivast) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/adityasrivast)
 
 <hr/>
 
